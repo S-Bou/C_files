@@ -5,8 +5,8 @@
 int main(){
     printf("Hello world.\n");
 
-    suma(3, 7);
+    printf("El resultado de la suma es: %d\n", suma(5, 6));
 
-    system("Pause");
+    //system("Pause");
     return 0;
 }
